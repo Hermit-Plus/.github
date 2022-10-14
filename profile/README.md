@@ -14,6 +14,12 @@ Think Netflix but for the Hermits. The goal here is to bring all the hermits tog
 
 ![Screenshot_20221012_091505](https://user-images.githubusercontent.com/44660994/195856780-1d0d0f3b-1fbd-4d81-af63-864375f420fa.png)
 
+### Donations
+
+Clicking the donation button will bring up the monthly donation screen. Using Stripe for payments. Site is free but one can choose to donate to the site and support both the site and there favorite hermits.
+
+![Screenshot_20221012_092733](https://user-images.githubusercontent.com/44660994/195858043-0bd314ca-bdb0-410d-a914-7952fd8e9ce6.png)
+
 <!--
 
 **Here are some ideas to get you started:**
