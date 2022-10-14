@@ -1,6 +1,6 @@
 # Hermit Plus
 
-👯 - looking to coloborate - visit the [landing page](https://www.hermitplus.com)
+👯 - looking to collaborate - visit the [landing page](https://www.hermitplus.com)
 
 [![Figma](https://img.shields.io/badge/Figma-design-blueviolet)](https://www.figma.com/file/1rA5nLglFEz6F1453wKwkG/Hermit-Plus?node-id=0%3A1)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-Foundation_Code_v5-informational)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)&nbsp;&nbsp;
