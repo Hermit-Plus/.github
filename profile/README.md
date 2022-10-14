@@ -10,20 +10,24 @@
 [![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;
 [![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
 
-Think Netflix but for the Hermits. The goal here is to bring all the hermits together under one roof. Currently there are 26 hermits scattered accross the internet and YouTube. Hermit Plus will present each of them in there own special way. This is the concept for the main page. Here you can select the hermit you want to view. Selecting the hermit brings up the social links for them.
+Think Netflix but for the Hermits. The goal here is to bring all the hermits together under one roof. Currently there are 26 hermits scattered accross the internet and YouTube. Hermit Plus will present each of them in there own special way. 
+
+### Home
+This is the concept for the main page. Here you can select the hermit you want to view. Selecting the hermit brings up the social links for them.
 
 ![Screenshot_20221012_091505](https://user-images.githubusercontent.com/44660994/195856780-1d0d0f3b-1fbd-4d81-af63-864375f420fa.png)
 
 ### Donations
-
 Clicking the donation button will bring up the monthly donation screen. Using Stripe for payments. Site is free but one can choose to donate to the site and support both the site and there favorite hermits.
 
 ![Screenshot_20221012_092733](https://user-images.githubusercontent.com/44660994/195858043-0bd314ca-bdb0-410d-a914-7952fd8e9ce6.png)
 
+### Character
 Each Hermit has there own section that display information specific to them. Select the video to watch from here.
 
 ![Screenshot_20221012_093500](https://user-images.githubusercontent.com/44660994/195858943-9ce181bf-d6a1-4764-87ac-989745422734.png)
 
+### Video
 Selecting the video takes you to the information about the video. Here you can see specific on the video as well as easily find the other hermits involved.
 
 ![Screenshot_20221012_093918](https://user-images.githubusercontent.com/44660994/195859421-6ce23bc8-9950-46ac-8cbb-3bc85a360153.png)
