@@ -10,9 +10,9 @@
 [![Node](https://img.shields.io/badge/NodeJS-v12-informational)](https://nodejs.org/en/)&nbsp;
 [![AWS](https://img.shields.io/static/v1?label=AWS&message=services&color=orange)](https://aws.amazon.com/console/)
 
-Think Netflix but for the Hermits. The goal here is to bring all the hermits together under one roof. Currently there are 26 hermits scattered accross the internet and YouTube. Hermit Plus will present each of them in there own special way.
+Think Netflix but for the Hermits. The goal here is to bring all the hermits together under one roof. Currently there are 26 hermits scattered accross the internet and YouTube. Hermit Plus will present each of them in there own special way. This is the concept for the main page. Here you can select the hermit you want to view. Selecting the hermit brings up the social links for them.
 
-
+![Screenshot_20221012_091505](https://user-images.githubusercontent.com/44660994/195856780-1d0d0f3b-1fbd-4d81-af63-864375f420fa.png)
 
 <!--
 
