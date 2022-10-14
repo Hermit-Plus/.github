@@ -20,6 +20,10 @@ Clicking the donation button will bring up the monthly donation screen. Using St
 
 ![Screenshot_20221012_092733](https://user-images.githubusercontent.com/44660994/195858043-0bd314ca-bdb0-410d-a914-7952fd8e9ce6.png)
 
+Each Hermit has there own section that display information specific to them. Select the video to watch from here.
+
+![Screenshot_20221012_093500](https://user-images.githubusercontent.com/44660994/195858943-9ce181bf-d6a1-4764-87ac-989745422734.png)
+
 <!--
 
 **Here are some ideas to get you started:**
