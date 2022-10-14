@@ -24,6 +24,10 @@ Each Hermit has there own section that display information specific to them. Sel
 
 ![Screenshot_20221012_093500](https://user-images.githubusercontent.com/44660994/195858943-9ce181bf-d6a1-4764-87ac-989745422734.png)
 
+Selecting the video takes you to the information about the video. Here you can see specific on the video as well as easily find the other hermits involved.
+
+![Screenshot_20221012_093918](https://user-images.githubusercontent.com/44660994/195859421-6ce23bc8-9950-46ac-8cbb-3bc85a360153.png)
+
 <!--
 
 **Here are some ideas to get you started:**
